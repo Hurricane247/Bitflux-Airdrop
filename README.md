@@ -1,2 +1,2 @@
 # Bitflux
-Air 
+Air drop contract for Birflux token
